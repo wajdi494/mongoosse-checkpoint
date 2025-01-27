@@ -1,0 +1,1 @@
+# mongoosse-checkpoint
